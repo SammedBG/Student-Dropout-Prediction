@@ -117,7 +117,7 @@ No missing values were present in the dataset.
    ```bash
    pip install -r requirements.txt
 3. Run the scripts:
-    Data exploration: ```python data_exploration.py```
-    Preprocessing:``` python preprocessing.py```
-    Modeling: ```python modeling.py```
-    Random Forest & XGBoost:``` python xgboost_rf.py```
+    -Data exploration: ```python data_exploration.py```
+    -Preprocessing:``` python preprocessing.py```
+    -Modeling: ```python modeling.py```
+    -Random Forest & XGBoost:``` python xgboost_rf.py```
